@@ -1,0 +1,55 @@
+header {
+
+background-color:rgb(201, 194, 194);
+height:20vh;
+width:80vw;
+margin:0 auto;
+
+
+}
+
+ #sq {
+    margin:10px;
+    width: 100px;
+  height: 100px;
+  background-color:blue;
+ }
+
+ p {
+    height:40vh;
+    padding:20px;
+    margin-left:10vw;
+    margin-right: 10vw;
+    color: rgb(100, 100, 100);
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ .bar {
+
+    margin: 0 auto;
+    height:25vh;
+    width:80vw
+
+ }
+
+ #blue {
+
+    background-color: rgb(77, 77, 253);
+ }
+
+ #aqua {
+
+    background-color: rgb(126, 255, 255);
+ }
+
+ #mud {
+
+    background-color: rgb(203, 228, 158);
+ }
+
+ #sun {
+
+    background-color: rgb(252, 230, 106);
+ }

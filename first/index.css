@@ -1,6 +1,6 @@
 body {
     
-    background-color:white);
+    background-color:white;
     margin:0;
 
 }
@@ -35,13 +35,17 @@ aside {
     right: 0;
     display: block;
 }
+#spacer {
+        height:50vh;
+        width:70vw;
+        margin:0 auto;
 
+}
 footer { 
 
-    height:15vh;
+    height:20vh;
 	width:70vw;
     background-color:black;
-    margin:0;
-    position: absolute;
-    bottom: 0;
-     ;
+    margin:0 auto;
+    
+}
